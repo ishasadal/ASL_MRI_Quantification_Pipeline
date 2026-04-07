@@ -1,0 +1,7 @@
+data/
+results/
+*.nii
+*.nii.gz
+*.pt
+__pycache__/
+.DS_Store
