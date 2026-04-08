@@ -7,7 +7,7 @@ This repository contains the processing pipeline developed for my MSc thesis on 
 1. Data conversion to NIfTI
 2. Motion correction
 3. Kidney segmentation using U-Net
-4. Cortex segmentation
+4. Cortex segmentation using U-Net
 5. Mask processing and registration
 6. Perfusion quantification
 7. Biomarker extraction and analysis
