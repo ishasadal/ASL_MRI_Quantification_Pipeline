@@ -14,7 +14,6 @@ This repository contains the processing pipeline developed for my MSc thesis on 
 
 ## Structure
 
-src/
 - preprocessing
 - segmentation
 - cortex
